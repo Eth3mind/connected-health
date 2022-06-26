@@ -35,21 +35,21 @@ The idea is to facilitate the tracking process of the patient clinical's data. O
 
 ## Features
 
-* Manage active prescriptions
+* Managing active prescriptions
 
-* See latest updated documents
+* Viewing latest updated documents
 
-* See upcoming visits
+* Viewing upcoming visits
 
-* Manage documents automatically downloaded from National Health File (FSE)
+* Managing documents automatically downloaded from National Health File (FSE)
 
-* Check the availability of prescribed medicines around you
+* Checking the availability of prescribed medicines around you
 
-* Check examination results as soon as they are available
+* Checking examination results as soon as they are available
 
-* Manage reservations based on your prescriptions
+* Managing reservations based on your prescriptions
 
-* Upcoming reservation reminder
+* Getting upcoming reservation reminders
 
 * Medical examinations’ history
 
