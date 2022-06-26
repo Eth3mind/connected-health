@@ -28,7 +28,7 @@
 <img src="/Slides/IMG_1078.JPG" alt="Logo">
 </div>
 </br>
-an app that helps every citizen to access digital health services, covering all aspects of them. Here are all the main features: 
+An app that helps every citizen to access digital health services, covering all aspects of them. Here are all the main features: 
 
 * Users can see pharmaceutic and specialistic prescriptions. They can see the content of each prescription and when it was issued, download it, check if it's still available or not. 
 * For each medicine of a prescription, they can use geolocalization to see if it's available around them. 
