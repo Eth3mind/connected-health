@@ -16,14 +16,14 @@
 </div>
 
 
-## Table of Contents
+# Table of Contents
 
 * [App Description](#app-description)
- * [Features](#features)
+* [Features](#features)
 * [Team Members](#team-members)
 
 
-## App Description
+# App Description
 <div align="center">
 <img src="/Slides/IMG_1078.JPG" alt="Logo">
 </div>
@@ -33,7 +33,7 @@ The idea is to facilitate the tracking process of the patient clinical's data. O
 * It shows clinical data of the patient. This data is based on values that users themselves can add into the app in order to get an historical report.
 * The user has the possibility to get his recipes directly on the app, in order to have them all in one place.
 
-### Features
+## Features
 
 * Manage active prescriptions
 
