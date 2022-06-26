@@ -34,9 +34,25 @@ The idea is to facilitate the tracking process of the patient clinical's data. O
 
 ### Features
 
-* Feature 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Feature 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Feature 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+* Manage active prescriptions
+
+* See latest updated documents
+
+* See upcoming visits
+
+* Manage documents automatically downloaded from National Health File (FSE)
+
+* Check the availability of prescribed medicines around you
+
+* Check examination results as soon as they are available
+
+* Manage reservations based on your prescriptions
+
+* Upcoming reservation reminder
+
+* Medical examinations’ history
+
+* Personal profile
 
 # Team Members
 * Alessandro Alberti
