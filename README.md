@@ -16,7 +16,7 @@
 </div>
 
 
-# Table of Contents
+## Table of Contents
 
 * [App Description](#app-description)
 * [Features](#features)
