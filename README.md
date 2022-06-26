@@ -41,6 +41,7 @@ This app is built with UI elements that can be used by anyone. But above all, it
 * Geolocalization is used to suggest the user with the clostest facilities.
 
 ### Features
+Here there it is a general overview of the features presented in the app:
 
 * Managing active prescriptions
 
