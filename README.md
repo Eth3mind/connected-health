@@ -25,7 +25,7 @@
 
 ## App Description
 <div align="center">
-<img src="https://i.ibb.co/d49sYPW/IMG-1078.jpg" alt="Logo">
+<img src="/Slides/IMG_1078.JPG" alt="Logo">
 </div>
 The idea is to facilitate the tracking process of the patient clinical's data. Our idea consists of an app that bring to the patient the experience of :
 
