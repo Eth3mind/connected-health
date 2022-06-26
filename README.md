@@ -4,7 +4,7 @@
     <img src="/Slides/Icon.png" alt="Logo" width="150" height="150" style="border-radius:16%">
   </a>
 
-  <h3 align="center">Connected Health</h3>
+  <h3 align="center">Curated Health</h3>
 
 
 
