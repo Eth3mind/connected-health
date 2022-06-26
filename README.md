@@ -37,7 +37,8 @@ An app that helps every citizen to access digital health services, covering all 
 * Furthermore, they can access their personal information and their doctor's information
 
 This app is built with UI elements that can be used by anyone. But above all, it is mean to be used fast: -No registration process, you can access with SPID or CIE. 
-* All the data is not manually uploaded by the user but it is retrieved from Fascicolo Nazionale Elettronico (FSE). -Geolocalization is used to suggest the user with the clostest facilities.
+* All the data is not manually uploaded by the user but it is retrieved from Fascicolo Nazionale Elettronico (FSE). 
+* Geolocalization is used to suggest the user with the clostest facilities.
 
 ### Features
 
