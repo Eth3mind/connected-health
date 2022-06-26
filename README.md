@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="https://i.ibb.co/Fmg9BDK/ios-Icon-Copy-2.png" alt="Logo" width="150" height="150" style="border-radius:16%">
+    <img src="/Slides/Icon.png" alt="Logo" width="150" height="150" style="border-radius:16%">
   </a>
 
   <h3 align="center">Connected Health</h3>
